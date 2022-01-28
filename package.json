@@ -17,6 +17,9 @@
   },
   "homepage": "https://github.com/Notsard/BotDiscord#readme",
   "dependencies": {
-    "discord.js": "^13.6.0"
+    "clear": "^0.1.0",
+    "colors": "^1.4.0",
+    "discord.js": "^13.6.0",
+    "dotenv": "^14.3.2"
   }
 }
